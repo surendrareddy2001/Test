@@ -5,7 +5,6 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.oxm.jaxb.Jaxb2Marshaller;
 import org.springframework.ws.client.core.WebServiceTemplate;
 
-// hello111
 @Configuration
 public class WebServiceConfig {
 	
